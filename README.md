@@ -127,7 +127,3 @@ The application exposes metrics for monitoring:
 - Prometheus metrics at `/metrics`
 - Health check endpoint at `/health`
 - Detailed logging for all operations
-
-## License
-
-MIT License
