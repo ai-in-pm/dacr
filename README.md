@@ -1,6 +1,10 @@
 # Digital AI Currency Reserve (DACR) System
 
 A digital currency system for AI services, pegged 1:1 to the US Dollar (₳1 = $1).
+![image](https://github.com/user-attachments/assets/cc473c83-f437-4c04-a41b-b63c160810cd)
+![image](https://github.com/user-attachments/assets/5b29d1f2-6e00-4e84-bd95-05a8c8ae247e)
+
+
 
 ## Overview
 
